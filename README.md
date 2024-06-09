@@ -21,7 +21,7 @@ To get started with the Flutter Wallet App, follow these steps:
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/sandeepsreekumar4067/Flutter-Wallet-App
-    cd flutter_wallet_app
+    cd Flutter-Wallet-App
     ```
 
 2. **Install dependencies**:
